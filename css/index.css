@@ -1,0 +1,20 @@
+html, body {
+    background-color: var(--primary-background-color);
+    color: var(--primary-color);
+  
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  
+    font-family: "Alexandria", Tahoma, sans-serif;
+
+    margin: 0;
+    padding: 0;
+
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    min-height: 100vh;
+  }
+
+  main {
+    margin: 0 10px 0 10px;
+  }
