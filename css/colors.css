@@ -1,0 +1,17 @@
+.dark-mode {
+    --primary-background-color: #333333;
+    --primary-color: #f3f3f3;
+
+    --navbar-background-color: #222222;
+
+    --focus-background-color: #303030;
+}
+
+.light-mode {
+    --primary-background-color: #f3f3f3;
+    --primary-color: #333333;
+
+    --navbar-background-color: #D8D8D8;
+
+    --focus-background-color: #F6F6F6;
+}
